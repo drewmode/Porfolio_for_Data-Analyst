@@ -38,6 +38,11 @@ Welcome to my data portfolio! I am a passionate Junior Data Analyst who loves tu
 * **Key Outcome:** Improved model accuracy by 12% through targeted feature engineering and outliers removal.
 
 ---
+### 3. [TEST DATA](https://github.com/drewmode/order_detail/)
+* **Objective:** Cleaned and engineered features from a messy real estate dataset to analyze historical price trends and build a baseline regression model.
+* **Tech Stack:** Python (Scikit-Learn, Seaborn), Jupyter Notebooks.
+* **Key Outcome:** Improved model accuracy by 12% through targeted feature engineering and outliers removal.
+
 
 ## 📈 GitHub Stats
 
